@@ -7,4 +7,10 @@ class pen {
 	//write code here
 }
 
- 	
+class main {
+
+	// some code 
+
+}
+
+
